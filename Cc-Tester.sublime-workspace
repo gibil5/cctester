@@ -1,0 +1,791 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"jx",
+				"jx_partner_id"
+			],
+			[
+				"op",
+				"open_order"
+			],
+			[
+				"rec",
+				"reception"
+			],
+			[
+				"appoin",
+				"appointment_date"
+			],
+			[
+				"pro",
+				"property_product_pricelist"
+			],
+			[
+				"pricelis",
+				"pricelist"
+			],
+			[
+				"pri",
+				"pricelist_name"
+			],
+			[
+				"pr",
+				"pricelist_name"
+			],
+			[
+				"pa",
+				"partner_id"
+			],
+			[
+				"acc",
+				"account_invoices"
+			],
+			[
+				"in",
+				"invoice_ids"
+			],
+			[
+				"x",
+				"x_flag"
+			],
+			[
+				"st",
+				"strip"
+			],
+			[
+				"x_",
+				"x_dni"
+			],
+			[
+				"d",
+				"draft"
+			],
+			[
+				"gr",
+				"group"
+			],
+			[
+				"ser",
+				"serial_nr"
+			],
+			[
+				"sa",
+				"saledoc"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"Fa",
+				"False"
+			],
+			[
+				"p",
+				"proof"
+			],
+			[
+				"ti",
+				"ticket_receipt"
+			],
+			[
+				"re",
+				"receipt"
+			],
+			[
+				"ticket_",
+				"ticket_receipt"
+			],
+			[
+				"cat",
+				"category_id"
+			],
+			[
+				"stre",
+				"street2"
+			],
+			[
+				"phon",
+				"phone_2"
+			],
+			[
+				"cou",
+				"country_id"
+			],
+			[
+				"rep",
+				"replace"
+			],
+			[
+				"order",
+				"order_line"
+			],
+			[
+				"report_",
+				"report_ticket_receipt"
+			],
+			[
+				"Re",
+				"Regresar"
+			],
+			[
+				"cu",
+				"cuo_tot"
+			],
+			[
+				"ame",
+				"ame_tot"
+			],
+			[
+				"cash",
+				"cash_tot"
+			],
+			[
+				"ca",
+				"cash_tot"
+			],
+			[
+				"sale",
+				"sale_note"
+			],
+			[
+				"dat",
+				"date_order"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"ord",
+				"orders"
+			],
+			[
+				"a",
+				"amount_untaxed"
+			],
+			[
+				"di",
+				"directors"
+			],
+			[
+				"nr",
+				"nr_treatments"
+			],
+			[
+				"co",
+				"cosmetology"
+			],
+			[
+				"part",
+				"partner_id"
+			],
+			[
+				"item",
+				"item_ids"
+			],
+			[
+				"oe",
+				"oe_right"
+			],
+			[
+				"ope",
+				"openhealth"
+			],
+			[
+				"on",
+				"onchange_partner_id"
+			],
+			[
+				"x_dat",
+				"x_date_created"
+			],
+			[
+				"x_da",
+				"x_datetime_created"
+			],
+			[
+				"con",
+				"consultation"
+			],
+			[
+				"group",
+				"groups"
+			],
+			[
+				"In",
+				"Invoices"
+			],
+			[
+				"price",
+				"pricelist"
+			],
+			[
+				"produ",
+				"product_id"
+			],
+			[
+				"orde",
+				"order_line"
+			],
+			[
+				"card",
+				"card_id"
+			],
+			[
+				"patient",
+				"patient_name"
+			],
+			[
+				"par",
+				"partner_id"
+			],
+			[
+				"u",
+				"uom_id"
+			],
+			[
+				"s",
+				"string"
+			],
+			[
+				"Inven",
+				"Inventario"
+			],
+			[
+				"Serv",
+				"Servicios"
+			],
+			[
+				"end",
+				"appointment_end"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 1105,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 478,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"browser",
+				"Browse Mode: Right Sidebar"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"package control:install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 256.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gibil/cellar/github/rails/cctester/Gemfile.CCDATA.rb",
+		"/Users/gibil/cellar/github/rails/cctester/Gemfile.BAK",
+		"/Users/gibil/cellar/github/openhealth/models/order.py",
+		"/Users/gibil/cellar/github/openhealth/views/orders/order.xml",
+		"/Users/gibil/cellar/github/openhealth/tests/patient.rb",
+		"/Users/gibil/cellar/github/openhealth/tests/test_1.html",
+		"/Users/gibil/cellar/github/openhealth/tests/test_1.rb",
+		"/Users/gibil/cellar/github/openhealth/__openerp__.py",
+		"/Users/gibil/cellar/github/openhealth/data/suppliers.xml",
+		"/Users/gibil/cellar/github/openhealth/data/prods/odoo_data_products.xml",
+		"/Users/gibil/cellar/github/openhealth/views/treatments/treatment.xml",
+		"/Users/gibil/cellar/github/openhealth/models/process.py",
+		"/Users/gibil/cellar/github/openhealth/views/stock/stock_picking.xml",
+		"/Users/gibil/cellar/github/openhealth/views/patients/patient_personal.xml",
+		"/Users/gibil/cellar/github/openhealth/views/patients/patient.xml",
+		"/Users/gibil/cellar/github/openhealth/views/menus/menus.xml",
+		"/Users/gibil/cellar/github/openhealth/views/menus/menus_openhealth.xml",
+		"/Users/gibil/cellar/github/openhealth/views/sessions/session.xml",
+		"/Users/gibil/cellar/github/openhealth/models/session.py",
+		"/Users/gibil/cellar/github/openhealth/views/purchase/purchase.xml",
+		"/Users/gibil/cellar/github/openhealth/views/orders/events.xml",
+		"/Users/gibil/cellar/github/openhealth/views/sale_documents/payment_methods.xml",
+		"/Users/gibil/cellar/github/openhealth/models/payment_method.TRASH.py",
+		"/Users/gibil/cellar/github/openhealth/models/ord_vars.py",
+		"/Users/gibil/cellar/github/openhealth/models/payment_method.py",
+		"/Users/gibil/cellar/github/openhealth/reports/report_ticket_invoice.xml",
+		"/Users/gibil/cellar/github/openhealth/reports/report_ticket_sale_order.xml",
+		"/Users/gibil/cellar/github/openhealth/reports/report_ticket_receipt.xml",
+		"/Users/gibil/cellar/github/openhealth/readme.txt",
+		"/Users/gibil/cellar/github/openhealth/models/treatment_funcs.py",
+		"/Users/gibil/cellar/github/openhealth/models/treatment.py",
+		"/Users/gibil/cellar/github/openhealth/views/products/product.xml",
+		"/Users/gibil/cellar/github/openhealth/data/stock_move_data.xml",
+		"/Users/gibil/cellar/github/openhealth/security/openhealth_security_buf.xml",
+		"/Users/gibil/cellar/github/openhealth/security/openhealth_security_readers.xml",
+		"/Users/gibil/cellar/github/openhealth/security/ir.model.access.csv",
+		"/Users/gibil/cellar/github/openhealth/models/stock_move_selector.py",
+		"/Users/gibil/cellar/github/openhealth/views/stock/stock.xml",
+		"/Users/gibil/cellar/github/openhealth/views/stock/stock_move_selector.xml",
+		"/Users/gibil/cellar/github/openhealth/views/stock/stock_move.xml",
+		"/Users/gibil/cellar/github/openhealth/models/howto/shell.rb",
+		"/Users/gibil/cellar/github/openhealth/views/cards/card.xml",
+		"/Users/gibil/cellar/github/openhealth/models/__init__.py",
+		"/Users/gibil/cellar/github/openhealth/models/stock_pack_operation.py",
+		"/Users/gibil/cellar/github/openhealth/models/stock_picking.py",
+		"/Users/gibil/cellar/github/openhealth/models/purchase.py",
+		"/Users/gibil/cellar/github/openhealth/security/ir.model.access.trash.csv",
+		"/Users/gibil/cellar/github/openhealth/models/patient.py",
+		"/Users/gibil/cellar/github/openhealth/reports/report_ticket_sale_proof.xml",
+		"/Users/gibil/cellar/github/openhealth/views/services/service_co2_zone.xml",
+		"/Users/gibil/cellar/github/openhealth/models/stock_move.py",
+		"/Users/gibil/cellar/github/openhealth/models/control.py",
+		"/Users/gibil/cellar/github/openhealth/models/evaluation.py",
+		"/Users/gibil/cellar/github/openhealth/views/appointments/appointment.xml",
+		"/Users/gibil/cellar/github/openhealth/views/appointments/calendar.xml",
+		"/Users/gibil/cellar/github/openhealth/models/appointment.py",
+		"/Users/gibil/cellar/github/openhealth/models/partner.py",
+		"/Users/gibil/cellar/github/openhealth/views/partners/partner.xml",
+		"/Users/gibil/cellar/github/openhealth/data/base_data_physicians.xml",
+		"/Users/gibil/cellar/github/openhealth/data/base_data_categs.xml",
+		"/Users/gibil/cellar/github/openhealth/data/users/base_data_users_managers.xml",
+		"/Users/gibil/cellar/github/openhealth/views/reports/report_sale_doctors.xml",
+		"/Users/gibil/cellar/github/openhealth/data/stock_moves_data.xml",
+		"/Users/gibil/cellar/github/openhealth/data/stock_moves.xml",
+		"/Users/gibil/cellar/github/openhealth/models/card.py",
+		"/Users/gibil/cellar/github/openhealth/models/appfuncs.py",
+		"/Users/gibil/cellar/github/openhealth/views/orders/order_line.TRASH.xml",
+		"/Users/gibil/cellar/github/openhealth/views/orders/order_line.xml",
+		"/Users/gibil/cellar/github/openhealth/data/supplier_services.xml",
+		"/Users/gibil/cellar/github/openhealth/data/pricelists.xml",
+		"/Users/gibil/cellar/github/openhealth/models/treatment_vars.py",
+		"/Users/gibil/cellar/github/openhealth/views/images/image.xml",
+		"/Users/gibil/cellar/github/openhealth/models/image_full.py",
+		"/Users/gibil/cellar/github/openhealth/models/image.py",
+		"/Users/gibil/cellar/github/openhealth/views/images/image_view.xml",
+		"/Users/gibil/cellar/github/openhealth/models/session_med.py",
+		"/Users/gibil/cellar/github/openhealth/models/appointment.TRASH.py",
+		"/Users/gibil/cellar/github/openhealth/views/sessions/session_med.xml",
+		"/Users/gibil/cellar/github/openhealth/views/orders/payment_methods.xml",
+		"/Users/gibil/cellar/github/openhealth/views/reports/report_sale_months_phy_ala.xml",
+		"/Users/gibil/cellar/github/openhealth/models/physician.py",
+		"/Users/gibil/cellar/github/openhealth/views/treatments/treatment_consultations.xml",
+		"/Users/gibil/cellar/github/openhealth/views/treatments/treatment_orders.xml",
+		"/Users/gibil/cellar/github/openhealth/views/treatments/treatment_appointments.xml",
+		"/Users/gibil/cellar/github/openhealth/models/defaults.py",
+		"/Users/gibil/cellar/github/openhealth/views/base.xml",
+		"/Users/gibil/cellar/github/openhealth/models/receipt.py",
+		"/Users/gibil/cellar/github/openhealth/views/sale_documents/receipts.xml",
+		"/Users/gibil/cellar/github/openhealth/models/sale_proof.TRASH.py",
+		"/Users/gibil/cellar/github/openhealth/models/sale_proof.py",
+		"/Users/gibil/cellar/github/openhealth/views/purchase/purchase.TRASH.xml",
+		"/Users/gibil/cellar/github/openhealth/views/stock/stock.TRASH.xml",
+		"/Users/gibil/cellar/github/openhealth/views/account_invoices/account_invoice.xml",
+		"/Users/gibil/cellar/github/openhealth/models/account_invoice.py",
+		"/Users/gibil/cellar/github/openhealth/models/purchase.TRASH.py",
+		"/Users/gibil/cellar/github/openhealth/models/order.TRASH.py",
+		"/Users/gibil/cellar/github/openhealth/data/prods/odoo_data_services_med.xml",
+		"/Users/gibil/cellar/github/openhealth/data/prods/odoo_data_services_m22.xml",
+		"/Users/gibil/cellar/github/openhealth/data/prods/odoo_data_services_exc.xml",
+		"/Users/gibil/cellar/github/openhealth/data/prods/odoo_data_services_cos.xml",
+		"/Users/gibil/cellar/github/openhealth/data/prods/odoo_data_services_consult.xml",
+		"/Users/gibil/cellar/github/openhealth/data/prods/odoo_data_services_co2.xml",
+		"/Users/gibil/cellar/github/openhealth/data/odoo_data_products.xml",
+		"/Users/gibil/cellar/github/openhealth/data/odoo_data_services_co2.xml",
+		"/Users/gibil/cellar/github/openhealth/data/odoo_data_services_m22.xml",
+		"/Users/gibil/cellar/github/openhealth/data/odoo_data_services_exc.xml",
+		"/Users/gibil/cellar/github/openhealth/data/odoo_data_services_consult.xml",
+		"/Users/gibil/cellar/github/openhealth/data/odoo_data_services_cos.xml",
+		"/Users/gibil/cellar/github/openhealth/data/base_data_users_doctors.xml",
+		"/Users/gibil/cellar/github/openhealth/reports/closing.xml",
+		"/Users/gibil/cellar/github/openhealth/views/sale_documents/ticket_receipts.xml",
+		"/Users/gibil/cellar/github/openhealth/models/ticket_receipt.py",
+		"/Users/gibil/cellar/github/openhealth/views/sale_documents/ticket_invoices.xml",
+		"/Users/gibil/cellar/github/openhealth/views/sale_documents/invoices.xml",
+		"/Users/gibil/cellar/github/openhealth/data/base_data_users_almacen.xml",
+		"/Users/gibil/cellar/github/openhealth/data/base_data_patients.xml",
+		"/Users/gibil/cellar/github/openhealth/data/base_data_users_cash.xml",
+		"/Users/gibil/cellar/github/openhealth/data/base_data_users_platform.xml",
+		"/Users/gibil/cellar/github/openhealth/data/base_data_users_assistants.xml",
+		"/Users/gibil/cellar/github/openhealth/data/product_suppliers.xml",
+		"/Users/gibil/cellar/github/openhealth/data/base_data_users_staff.xml",
+		"/Users/gibil/cellar/github/openhealth/data/base_data_users_managers.xml",
+		"/Users/gibil/cellar/github/openhealth/data/base_data_users_phy.xml",
+		"/Users/gibil/cellar/github/openhealth/models/purgatorium/patient.trash.py",
+		"/Users/gibil/cellar/github/openhealth/security/openhealth_security_oe.xml",
+		"/Users/gibil/cellar/github/openhealth/reports/report_ticket_rec_buffer.xml",
+		"/Users/gibil/cellar/github/openhealth/reports/report_ticket_inv_buffer.xml",
+		"/Users/gibil/cellar/github/openhealth/reports/report_ticket_buffer.xml"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								612,
+								612
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 566.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 30.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "Cc-Tester.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"o",
+				"~/cellar/github/openhealth/views/orders/order.xml"
+			],
+			[
+				"c",
+				"~/cellar/github/openhealth/views/cards/card.xml"
+			],
+			[
+				"t",
+				"~/cellar/github/openhealth/views/treatments/treatment.xml"
+			],
+			[
+				"p",
+				"~/cellar/github/openhealth/views/patients/patient.xml"
+			],
+			[
+				"a",
+				"~/cellar/github/openhealth/models/appointment.py"
+			],
+			[
+				"s",
+				"~/cellar/github/openhealth/data/suppliers.xml"
+			],
+			[
+				"r",
+				"~/cellar/github/openhealth/models/receipt.py"
+			],
+			[
+				"m",
+				"~/cellar/github/openhealth/views/menus/menus.xml"
+			],
+			[
+				"",
+				"~/cellar/github/openhealth/models/ticket_receipt.py"
+			],
+			[
+				"i",
+				"~/cellar/github/openhealth/security/ir.model.access.csv"
+			],
+			[
+				"d",
+				"~/cellar/github/openhealth/data/base_data_users_managers.xml"
+			],
+			[
+				"h",
+				"~/cellar/github/openhealth/models/howto/shell.rb"
+			],
+			[
+				"e",
+				"~/cellar/github/openhealth/models/evaluation.py"
+			],
+			[
+				"_",
+				"~/cellar/github/openhealth/__openerp__.py"
+			],
+			[
+				"sa",
+				"~/Virtualenvs/Odoo9-min/odoo/addons/openhealth/models/sale_note.py"
+			],
+			[
+				"invoi",
+				"~/Virtualenvs/Odoo9-min/odoo/addons/openhealth/models/invoice.py"
+			],
+			[
+				"pr",
+				"~/Virtualenvs/Odoo9-min/odoo/addons/openhealth/models/sale_proof.py"
+			],
+			[
+				"re",
+				"~/Virtualenvs/Odoo9-min/odoo/addons/openhealth/views/sale_documents/receipts.xml"
+			],
+			[
+				"service_ndy",
+				"views/services/service_ndyag.xml"
+			],
+			[
+				"service_ip",
+				"views/services/service_ipl.xml"
+			],
+			[
+				"service",
+				"views/services/service_excilite.xml"
+			],
+			[
+				"order",
+				"views/orders/order.xml"
+			],
+			[
+				"control",
+				"views/controls/control.xml"
+			],
+			[
+				"consult",
+				"views/consultations/consultation.xml"
+			],
+			[
+				"procedure",
+				"views/procedures/procedure.xml"
+			],
+			[
+				"ser",
+				"views/services/service_co2.xml"
+			],
+			[
+				"trea",
+				"views/treatments/treatment.xml"
+			],
+			[
+				"patient",
+				"views/patients/patient.xml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Aptana Studio 3 Workspace/ccdata/ccData.sublime-project"
+			],
+			[
+				"\t",
+				"~/Documents/Aptana Studio 3 Workspace/ccdata/ccData.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
